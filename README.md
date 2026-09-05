@@ -1,4 +1,4 @@
-# HGAI Framework
+# HGAI Framework Skill
 # @怡宝 Bill Cheung
 > **Human-Governed AI Software Development Framework**
 >
